@@ -1,3 +1,5 @@
+//how we run tests
+
 var webpackConfig = require('./webpack.config.js');
 
 module.exports = function (config) {
